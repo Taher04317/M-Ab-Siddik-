@@ -1,0 +1,57 @@
+.theory-error{
+padding:50px 0;
+text-align:center;
+}
+.theory-error h2{
+font-size:140px;
+color:#000;
+padding:10px 0 5px;
+}
+.theory-error h3{
+font-size:35px;
+color:#0bf72cff;
+text-transform:uppercase;
+}
+.theory-error1 a{
+color:#0bf72cff;
+text-transform:capitalize;
+}
+.theory-error1 a:hover{
+text-decoration:none;
+color:#000;
+}
+.theory-error1 a i{
+padding:0 20px;
+}
+.theory-error p{
+width:70%;
+margin:0 auto;
+padding:10px 0;
+color:#000;  
+}
+.theory-err{
+margin:15px auto;
+height:50px;
+width:80%;
+border:1px solid #000;
+border-radius:20px;
+display:flex;
+text-align:center;
+align-items:center;
+}
+.theory-err input{
+height:48px;
+width:65%;
+margin-left:15px;
+border:none;
+border-radius:15px;
+background:transparent;
+}
+.theory-err button{
+height:40px;
+width:25%;
+background:#0bf72cff;
+border:none;
+border-radius:20px;
+}
+

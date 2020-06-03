@@ -1,0 +1,171 @@
+/*blog starts*/
+.theory-blog1{
+padding:80px 0 0px;
+}
+.theory-blog-img1{
+margin:10px 0;
+position:relative;
+}
+
+.theory-blog-overlay0{
+height:25%;
+background:#000;
+width:20%;
+position:absolute;
+top:5%;
+left:5%;
+display:flex;
+}
+.theory-blog-overlay0 ul{
+list-style:none;
+color:#fff;
+width:90px;
+height:25px;
+transition:.5s;
+}
+.theory-blog-img1:hover .theory-blog-overlay0 ul{
+background:rgba(13,243,44,.9);
+}
+.theory-blog-overlay01 ul li{
+padding:8px 10px;
+font-weight:bold;
+font-size:14px;
+}
+.theory-blog-overlay01{
+height:10%;
+background:rgba(3,4,4,.9);
+width:100%;
+position:absolute;
+top:90%;
+left:0%;
+color:#fff;
+transition:.5s;
+}
+.theory-blog-img1:hover .theory-blog-overlay01{
+background:rgba(13,243,44,.9);
+}
+.theory-blog-p1{
+font-size:15px;
+padding:10px 0;
+}
+/*left ends*/
+.theory-search{
+border:1px solid #000;
+border-radius:5px;
+width:100%;
+}
+.theory-search input{
+width:80%;
+padding:5px;
+border:none;
+margin-left:5px;
+}
+.theory-search button{
+width:15%;
+padding:5px 7px;
+border:none;
+border-radius:10px;
+background:transparent;
+}
+.theory-b-h{
+padding:5px 0;
+text-transform:capitalize;
+margin-left:10px;
+color:#0bf72cff;
+}
+.theory-pop{
+margin-bottom:15px;
+}
+.theory-pop h6{
+font-size:15px;
+margin-top:-3px;
+margin-bottom:-2px;
+}
+.theory-pop p{
+font-size:11px;
+margin-top:1px;
+}
+.theory-cate ul{
+list-style:none;
+}
+.theory-cate ul li {
+margin-top:-1px;
+margin-left:-30px;
+font-size:18px;
+color:#000;
+transition:.5s;
+padding:2px 0;
+}
+.theory-cate ul li:hover{
+color:#0f0;
+margin-left:-10px;
+font-size:20px;
+text-decoration:none;
+}
+
+/*--right-ends--*/
+.theory-blog-sec1{}
+.theory-blog-sec1 ul{
+list-style:none;
+margin-top:-20px;
+}
+.theory-blog-sec1 ul li{
+transition:1s;
+margin-left:-25px;
+}
+.theory-blog-sec1 ul li:hover{
+color:rgba(13,243,44,.9);
+margin-left:10px;
+font-size:25px;
+}
+.theory-blog-sec1 ul li i{
+padding:0 5px;
+}
+/* sec1-ends */
+.theory-blog3{
+padding:30px 0 10px;
+}
+theory-blog-img3{
+padding:10px 0;
+position:relative;
+}
+.theory-blog-img3 img{
+margin-bottom:15px;
+}
+.theory-blog-overlay3{
+height:95%;
+width:88%;
+background:rgba(3,4,4,.8);
+position:absolute;
+top:0;
+left:6.5%;
+display:flex;
+text-align:center;
+align-items:center;
+margin:0 auto;
+}
+.theory-blog-overlay3 i{
+margin:0 auto;
+font-size:35px;
+color:#0bf72cff;
+transition:.5s;
+}
+.theory-blog-overlay3 i:hover{
+font-size:55px;
+color:lightblue;
+}
+/*4th ends*/
+.tag-and-share ul li{
+padding:3px 2px 10px;
+}
+/*😂😂😂*/
+.theory-blog4{
+padding:30px 0;
+}
+.theory-form{
+border:1px solid silver;
+padding:10px;
+}
+
+/*blog ends*/
+

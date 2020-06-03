@@ -1,0 +1,30 @@
+.theory-contact1{
+padding:80px 0 20px;
+}
+.theory-contact1 img{
+height:70%;
+width:100%;
+}
+.theory-contact1 input{
+width:100%;
+}
+iframe{
+border:none;
+height:50%;
+width:100%;
+background:red;
+}
+.theory-con-map{
+padding:10px 0;
+}
+.theory-con-map h3{
+text-transform:capitalize;
+}
+.theory-con-map a{
+color:#000;
+}
+.theory-con-map i{
+margin-left:-15px;
+padding:10px;
+color:#0bf72cff;
+}

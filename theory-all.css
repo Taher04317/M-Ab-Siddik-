@@ -1,0 +1,218 @@
+/* common css starts */
+img{
+width:100%;
+video{
+width:100%;
+}
+}
+/* common css ends */
+/* theory top starts */
+.theory-top{
+background:#272e30ff;
+padding:10px 0; 
+color:#fff;
+}
+.theory-top p{
+color:#fff;
+overflow:hidden;
+}
+.theory-top ul{
+list-style:none;
+display:flex;
+}
+.theory-top a{
+color:#fff;
+padding:0px 10px;
+text-decoration:none;
+display:inline-block;
+transition:.5s;
+}
+.theory-top a:hover{
+color:#0bf72cff;
+border-bottom:2px solid orange;
+}
+/* theory top ends*/
+
+/* Sub-page-Menu-area starts */
+.theory-menu-1{
+background:#fff;
+padding:41px 0 30px;
+width:100%;
+border-top-left-radius: 100px;
+}
+.theory-menu-1 a{
+padding:40px 6px;
+text-transform:uppercase;
+color:#000;
+font-size:16px;
+transition:.5s;
+}
+.theory-menu-1 a:hover{
+font-size:22px;
+font-weight:bold;
+color:#0bf72cff;
+text-decoration:none;
+
+}
+.theory-menu-1 ul li:hover{
+border-bottom:2px solid orange;
+}
+.theory-menu-1 input{
+background:transparent;
+border:none;
+width:60px;
+}
+
+.theory-menu-1 i{
+margin-left:10px;
+color:#000;
+}
+
+.logo1 img{
+padding-top:0px;
+}
+/* Sub-page-Menu-area ends */
+
+/* sub-page-main-area starts */
+.theory-blog{
+background-image:url("Download/books-389392_1280.jpg");
+background-repeat:no-repeat;
+background-size:cover;
+background-position:center;
+text-align:center;
+color:#fff;
+}
+.theory-blog-title{
+padding:150px 0;
+position:relative;
+}
+.theory-blog-overlay h1{
+text-transform:uppercase;
+}
+.theory-blog-overlay{
+padding:80px 0;
+height:100%;
+width:100%;
+background:rgba(40,40,40,.9);
+position:absolute;
+top:0;
+left:0;
+}
+.button-blog{
+padding:0 10px;
+margin-top:10px;
+text-transform:uppercase;
+}
+.button-blog ul{
+margin-left:37%;
+}
+.button-blog ul li{
+padding:0 10px;
+background:transparent;
+}
+.button-blog ul li a{
+color:#fff;
+border:transparent;
+transition:.7s;
+}
+.button-blog ul li a:hover{
+text-decoration:none;
+font-size:22px;
+font-weight:bold;
+color:#0bf72cff;
+border-bottom:2px solid orange;
+}
+/* sub-page-main-area starts */
+
+/*sub-page-student-blog-starts*/
+.theory-blog-stu{
+padding:50px 0;
+position:relatve;
+}
+.theory-blog-stu h4{
+padding:8px 0 1px;
+font-size:17px;
+}
+.theory-blog-stu-overlay{
+margin-left:15px;
+height:10%;
+width:87.5%;
+background:rgba(40,40,40,.9);
+position:absolute;
+top:33.5%;
+left:0%;
+display:flex;
+text-align:center;
+align-items:center;  
+transition:.5s;
+}
+.theory-blog-stu-overlay li{
+color:#fff;
+padding:8px;
+margin:0 5px;
+}
+.theory-blog-stu-image{
+padding-bottom:20px;
+}
+.theory-blog-stu-image:hover .theory-blog-stu-overlay{
+background:green;
+}
+
+/*sub-page-student-blog-ends*/
+/*About css starts*/
+.theory-about-1{
+padding:40px 0;
+background:#272e30ff;
+color:#fff;
+}
+.theory-about-1 h5{
+text-transform:uppercase;
+padding:10px 0;
+margin-left:25px;
+font-size:18px;
+}
+.theory-about-1 ul{
+text-align:left;
+}
+.theory-about-1 ul li{
+list-style:none;
+}
+.theory-about-1 ul li a{
+margin-left:-20px;
+color:#fff;
+}
+.theory-about-1 a{
+color:#fff;
+}
+.theory-about-1 ul li a i{
+color:#0bf72cff;
+padding:1px 10px;
+transition:.5s;
+}
+.theory-about-1 ul li a:hover{
+margin-left:5px;
+font-size:12px;
+text-decoration:none;
+color:#0bf72cff;
+}
+
+/*About css ends*/
+
+/*Footer css starts*/
+.theory-footer{
+background:#000;
+color:#fff;
+}
+.theory-footer-menu{
+padding:10px 0px;
+}
+.theory-footer-menu ul li{
+text-transform:uppercase;
+padding:0px 4px;
+font-size:14px;
+}
+.theory-footer-menu ul li a{
+color:#fff;
+}
+/*Footer css ends*/
+

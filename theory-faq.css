@@ -1,0 +1,21 @@
+.question h4{
+margin:40px 0;
+}
+.question summary{
+margin:0 0 0 130px;
+margin-top:-35px;
+height:20px;
+width:40px;
+color:transparent;
+}
+.question summary i{
+color:#000;
+}
+.question summary:hover{
+background:transparent;
+color:transparent;
+border:1px solid red;
+}
+
+
+

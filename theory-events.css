@@ -1,0 +1,260 @@
+.theory-event1{
+padding:80px 0;
+}
+.theory-events-img{
+height:200px;
+position:relative;
+transition:.7s;
+}
+.theory-events-img:hover .theory-eve-overlay{
+background:green;
+}
+.theory-events-img img{
+height:100%;
+}
+.theory-eve-overlay{
+height:25%;
+width:25%;
+background:orange;
+position:absolute;
+top:1%;
+left:75%;
+border-bottom-left-radius:30px;
+transition:.5s;
+}
+
+.theory-eve-overlay ul{
+list-style:none;
+margin-left:-25px;
+color:#fff;
+}
+.theory-eve-overlay ul li:nth-child(2){
+font-weight:bold;
+}
+.theory-events-dl1{
+margin-bottom:70px;
+}
+.theory-events-dl1 h6{
+text-transform:capitalize;
+}
+.theory-events-dl1 ul{
+font-size:12px;
+font-family:cursive;
+font-weight:bold;
+}
+.theory-events-dl1 ul li:nth-child(2){
+padding-left:37px;
+}
+.theory-events-dl1 ul li i{
+color:#0f0;
+padding:1px 4px;
+font-size:16px;
+}
+.theory-events-dl1 p{
+font-size:13px;
+}
+.theory-events-dl1 button{
+background:transparent;
+border:none;
+}
+.theory-events-dl1 button a{
+color:#000;
+}
+.theory-events-dl1 button a:hover{
+text-decoration:none;
+}
+
+.theory-event-search{
+border:1px solid #000;
+border-radius:5px;
+width:100%;
+}
+.theory-event-search input{
+width:80%;
+padding:5px;
+border:none;
+margin-left:5px;
+}
+.theory-event-search button{
+width:15%;
+padding:5px 7px;
+border:none;
+border-radius:10px;
+background:transparent;
+}
+.theory-e-h{
+padding:5px 0;
+text-transform:capitalize;
+margin-left:10px;
+color:#0bf72cff;
+}
+.theory-pop{
+margin-bottom:15px;
+}
+.theory-pop h6{
+font-size:15px;
+margin-top:-3px;
+margin-bottom:-2px;
+}
+.theory-pop p{
+font-size:11px;
+margin-top:1px;
+text-transform:lowercase;
+}
+.theory-cate ul{
+list-style:none;
+}
+.theory-cate ul li a{
+margin-top:-1px;
+margin-left:-30px;
+font-size:18px;
+color:#000;
+transition:.5s;
+}
+.theory-cate ul li a:hover{
+color:#0f0;
+margin-left:-10px;
+font-size:20px;
+text-decoration:none;
+}
+.theory-cate ul li i{
+padding:1px 5px;
+}
+theory-event-img3{
+padding:10px 0;
+position:relative;
+}
+.theory-event-img3 img{
+margin-bottom:15px;
+position:relative;
+}
+.theory-event-overlay3{
+height:95%;
+width:88%;
+background:rgba(3,4,4,.8);
+position:absolute;
+top:0;
+left:6.5%;
+display:flex;
+text-align:center;
+align-items:center;
+margin:0 auto;
+}
+.theory-event-overlay3 i{
+font-size:35px;
+color:#0bf72cff;
+transition:.5s;
+margin-left:85px;
+}
+.theory-event-overlay3 i:hover{
+font-size:55px;
+color:lightblue;
+}
+
+/* Theory-events-details*/
+.theory-ev-dl{
+padding:20px 0 0px;
+}
+
+.theory-ev-dl h4{
+text-transform:uppercase;
+padding:60px 0 20px;
+font-size:18px;
+}
+.theory-ev-dl ul li a{
+color:#000;
+}
+.theory-ev-dl ul li a:hover{
+text-decoration:none;
+}
+.t-e-c0{
+margin:0 0 0 25px;
+}
+.t-e-c1{
+margin:0 5px 0 10px;
+}
+.t-e-c2{
+margin:0 5px 0 30px;
+}
+.t-e-c3{
+margin:0 5px 0 8px;
+}
+.theory-e-d-img{
+position:relative;
+}
+.theory-events-o0{
+height:20%;
+width:15%;
+background:#fff;
+box-shadow: 0 5px 10px 0 rgba(0,0,0,.4);
+position:absolute;
+text-align:center;
+top:90%;
+left:10%;
+}
+.theory-events-o1{
+height:20%;
+width:15%;
+background:#fff;
+box-shadow: 0 5px 10px 0 rgba(0,0, 0,.4);
+position:absolute;
+top:90%;
+left:30%;
+text-align:center;
+}
+.theory-events-o2{
+height:20%;
+width:15%;
+background:#fff;
+box-shadow: 0 5px 10px 0 rgba(0,0,0,.4);
+position:absolute;
+top:90%;
+left:50%;
+text-align:center;
+}
+.theory-events-o3{
+height:20%;
+width:15%;
+background:#fff;
+box-shadow: 0 5px 10px 0 rgba(0,0,0,.4);
+position:absolute;
+top:90%;
+left:70%;
+text-align:center;
+}
+.theory-ev-dl1{
+padding:45px 0;
+position:relative;
+}
+.theory-ev-dl1 ul{
+list-style:none;
+padding-top:10px;
+padding-bottom:10px;
+}
+.theory-ev-dl1 ul li{
+margin-left:-10px;
+}
+.theory-ev-dl1 ul li i{
+margin-left:-30px;
+padding-right:15px;
+color:#0bf72cff;
+font-size:17px;
+}
+.t-e-o{
+height:80%;
+width:1px;
+position:absolute;
+background:red;
+top:9%;
+left:-15px;
+}
+#iframeid{
+width:95%;
+height:250px;
+border:none;
+}
+.theory-reg{
+border:1px solid silver;
+margin-bottom:80px;
+padding:20px;
+}

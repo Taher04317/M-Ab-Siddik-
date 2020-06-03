@@ -1,0 +1,206 @@
+.theory-teachers0{
+padding:80px 0;
+}
+.theory-teac-img{
+padding:10px 0;
+}
+.theory-teac-dl{
+}
+.theory-teac-dl h4{
+text-transform:capitalize;
+margin-bottom:-2px; 
+}
+.theory-teac-dl span{
+font-size:10px;
+text-transform:uppercase;
+}
+.theory-teac-dl p{
+text-transform:capitalize;
+margin:5px 0 15px;
+}
+.theory-teac-dl p a{
+color:#000;
+}
+.theory-teac-dl p a:hover{
+text-decoration:none;
+}
+.theory-teac-dl ul{
+background:#ebededff;
+}
+.theory-teac-dl ul li{
+padding:5px 5px;
+}
+.theory-teac-dl ul li a{
+color:#5d6263ff;
+}
+.theory-teac:hover .theory-teac-dl h4{
+color:#0bf72cff;
+}
+.theory-teac{
+padding-bottom:15px;
+}
+/*theory-teachers-ends*/
+
+.theory-teacher-dl{
+padding:80px 0;
+}
+.theory-teacher-dl h5{
+padding:15px 0 0;
+margin-bottom:-5px;
+text-transform:uppercase; 
+}
+.theory-teacher-dl span{
+text-transform:uppercase;
+font-size:10px;
+margin-top:-15px; 
+}
+.theory-teacher-dl p{
+text-transform:uppercase;
+margin-bottom:5px; 
+}
+.theory-teacher-dl p a{
+text-transform:uppercase;
+margin-bottom:5px; 
+color:#000;
+padding-left:2px;
+}
+.theory-teacher-dl h4{
+text-transform:uppercase;
+margin-bottom:5px; 
+}
+.theory-teacher-dl ul{
+font-size:14px;
+margin-bottom:10px; 
+}
+.theory-teacher-dl ul li:nth-child(2){
+margin:1px 10px;
+}
+.theory-teacher-dl p{
+font-size:12px;
+padding:10px 0;
+}
+.theory-t-img{
+height:50%;
+}
+.theory-t-img img{
+width:100%;
+height:100%;
+}
+.theory-t-overlay{
+margin-left:10px;
+height:5%;
+width:88%;
+background:#000ee;
+color:#fff;
+position:absolute;
+top:45%;
+left:0;
+}
+.theory-t-overlay ul li a{
+padding:5px 3px;
+color:#fff;
+}
+.theory-t-img:hover .theory-t-overlay{
+margin-left:15px;
+background:rgba(11,247,44,.8);
+}
+.theory-teacher-intro{}
+.theory-skill ul .theory-one{
+margin-right:107px;
+}
+.theory-skill ul .theory-two{
+margin-right:120px;
+}
+.theory-skill ul .theory-three{
+margin-right:126px;
+}
+.theory-skill ul li{
+margin:10px 70px 2px 0;
+font-weight:bold;
+}
+.theory-skills{
+margin-top:-10px;
+height:10px;
+width:90%;
+background:silver;
+border:1px solid #fff;
+border-radius:10px;
+position:relative;
+}
+.theory-skill-overlay{
+height:100%;
+width:99%;
+position:absolute;
+background:#0bf72cff;
+top:0%;
+left:0;
+border-radius:10px;
+}
+.theory-skill-overlay1{
+height:100%;
+width:95%;
+position:absolute;
+background:#0bf72cff;
+top:0%;
+left:0;
+border-radius:10px;
+}
+.theory-skill-overlay2{
+height:100%;
+width:90%;
+position:absolute;
+background:#0bf72cff;
+top:0%;
+left:0;
+border-radius:10px;
+}
+.theory-skill-overlay3{
+height:100%;
+width:95%;
+position:absolute;
+background:#0bf72cff;
+top:0%;
+left:0;
+border-radius:10px;
+}
+.theory-skill-overlay4{
+height:100%;
+width:87%;
+position:absolute;
+background:#0bf72cff;
+top:0%;
+left:0;
+border-radius:10px;
+}
+.theory-shedule ul{
+}
+
+.theory-shedule ul .theory1-one{
+margin-right:60px;
+}
+.theory-shedule ul .theory1-two{
+margin-right:60px;
+}
+.theory-shedule ul .theory1-three{
+margin-right:40px;
+}
+.theory-shedule ul .theory1-four{
+margin-right:55px;
+}
+.theory-shedule ul .theory1-five{
+margin-right:75px;
+}
+
+.theory-shedule ul li{
+padding-top:10px;
+margin:0px 40px 0 0;
+margin-bottom:-2px;
+}
+hr{
+margin-top:-10px;
+}
+
+
+
+/*theory-teacher-dl-end*/
+

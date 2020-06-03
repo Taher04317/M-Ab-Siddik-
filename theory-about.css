@@ -1,0 +1,156 @@
+.theory-about1{
+padding:0 0 80px;
+}
+.theory-about-img1{
+height:300px;
+}
+.theory-about-img1 img{
+margin-top:30px;
+height:100%;
+}
+hr{
+margin-top:-5px;
+margin-bottom:1px;
+width:20%;
+text-align:left;
+height:2px;
+background:#0bf72cff;
+margin-left:-1px;
+}
+.theory-about-dl1{}
+.theory-about-dl1 h2{
+text-transform:uppercase;
+font-size:22px;
+}
+.th-ab-1 h6{
+text-transform:uppercase;
+font-size:14px;
+}
+.th-ab-1 p{
+font-size:10px;
+}
+.about-facts{
+height:300px;
+padding-bottom:10px;
+position:relative;
+}
+.about-facts img{
+height:90%;
+}
+.about-facts-overlay{
+height:88%;
+width:100%;
+background:rgba(4,4,4,.9);
+position:absolute;
+top:0;
+left:0;
+color:#fff;
+}
+.about-facts-overlay h3{
+text-align:center;
+padding:50px 0 30px;
+text-transform:uppercase;
+color:#fff;
+}
+.about-facts-overlay div{
+text-align:center;
+}
+.about-facts-overlay i{
+font-size:12px;
+padding:0 5px;
+}
+.about-facts-overlay p{
+text-align:center;
+margin-top:-2px;
+text-transform:capitalize;
+}
+/**★★**/
+.theory-campus{
+position:relative;
+padding:30px 0;
+}
+.theory-campus h4{
+text-transform:uppercase;
+text-align:center;
+font-size:22px;
+}
+.theory-campus hr{
+margin-top:1px;
+margin-bottom:40px;
+width:10%;
+text-align:left;
+height:2px;
+background:#0bf72cff;
+margin-left:45%;
+}
+.theory-c{
+width:300px;
+height:60px;
+background:#fff;
+color:#000;
+display:flex;
+text-align:center;
+align-items:center;
+border-radius:50%;
+box-shadow: 5px 5px 10px 5px rgba(0,0,0,.4);
+}
+.theory-c:hover{
+border:1px solid #efe;
+background:#0bf72cff;
+}
+.theory-hr{
+margin-left:20%;
+height:1px;
+width:60%;
+background:silver;
+position:absolute;
+top:28%;
+left:0;
+}
+.theory-campus{
+padding:20px 0;
+}
+.theory-campus h5{
+text-transform:uppercase;
+padding:10px 0;
+}
+.theory-campus p{
+font-size:12px;
+}
+.theory-campus ul{
+list-style:none;
+margin-top:-4px;
+margin-left:-40px;
+}
+.theory-campus ul li i{
+padding-right:10px;
+color:#0bf72cff
+}
+.theory-study-img{
+padding:30px 0;
+}
+.theory-study-img img{
+position:relative;
+}
+.theory-study-overlay{
+
+height:78%;
+width:92%;
+background:rgba(4,4,4,.8);
+position:absolute;
+top:11%;
+left:4%;
+display:flex;
+align-items:center;
+}
+.theory-study-overlay i{
+font-size:49px;
+margin-left:40%;
+color:#0bf72cff;
+transition:.5s;
+}
+.theory-study-overlay i:hover{
+font-size:75px;
+color:green;
+}
+
